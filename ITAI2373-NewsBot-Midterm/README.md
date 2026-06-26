@@ -1,4 +1,9 @@
 # 🤖 NewsBot Intelligence System
+Name: Abraham Barreto
+Date: 6/25/26
+Peer Reviewer/Tester: Viktoriya Kurmisheva
+
+
 ITAI 2373 — Mid-Term Group Project. An end-to-end NLP pipeline that classifies news
 articles, extracts named entities, and analyzes sentiment.
 
